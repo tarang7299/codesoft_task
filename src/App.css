@@ -1,0 +1,7 @@
+.container {
+  border: 2px solid black;
+  display: flex;
+  margin-top: 15px;
+  justify-content: space-between;
+  height: 85vh;
+}

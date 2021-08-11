@@ -1,0 +1,8 @@
+.sidebar {
+  width: 25%;
+  height: calc(95vh-50px);
+  position: sticky;
+  border: 2px solid grey;
+  margin: 10px 10px;
+  position: sticky;
+}

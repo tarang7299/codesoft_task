@@ -1,0 +1,17 @@
+.dashboard {
+  width: 90%;
+  height: calc(95vh - 50px);
+  display: flex;
+  justify-content: space-between;
+}
+/* .left {
+  border: 2px solid grey;
+  flex: 1;
+  margin: 10px 10px;
+  position: sticky;
+} */
+.right {
+  border: 2px solid grey;
+  flex: 3;
+  margin: 10px 10px;
+}
